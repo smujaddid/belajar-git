@@ -1,2 +1,0 @@
-print('Hello World')
-print('Nama saya Dirga dari prodi Sistem Informasi')
