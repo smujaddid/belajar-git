@@ -1,8 +1,10 @@
 test
 Haloo saya gajah
 aku mempunyai tubuh yang besar
+dirga : Baris baru
 Sibgha: Baris ke-4
 tapi aku sulit untuk duduk
 Sibgha: baris satu
 Sibgha: baris dua
+
 Sibgha: Baris paling akhir
